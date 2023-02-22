@@ -2,7 +2,7 @@
 project_name      = "PokeAPI"
 resource_location = "eastus"
 vnet_address      = "10.0.0.0/16"
-sqladmin_username = "doogieboogie"
-sqladmin_password = "howd*bro123"
+sqladmin_username = "..."
+sqladmin_password = "..."
 func_count        = 2
 logic_count       = 2
